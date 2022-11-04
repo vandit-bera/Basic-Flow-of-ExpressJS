@@ -35,12 +35,12 @@ In this Project I've built local server project and Now I'm help you to Start th
 ### Step 2: Open Terminal and write 'npm start' command to run the entire project.
 ### Step 3: Go to the browser and run 'localhost:3000' and see the same output as below
 ![1](./ss/1.png)
-### Step 4: Now you write '/profile' after the 'localhost:3000' and see the same output as below
+### Step 4: Now you write '/profile' after the 'localhost:3000' and go to profile page and see the same output as below
 ![2](./ss/2.png)
-### Step 5: Now you write your name after the 'localhost:3000/profile' like 'localhost:3000/profile/Vandit' and see the same output as below
+### Step 5: Now you write your name after the 'localhost:3000/profile' like 'localhost:3000/profile/Vandit' and see your given name is display on screen and see the same output as below
 ![3](./ss/3.png)
 ![4](./ss/4.png)
-### Step 5: Now you write '/api' after the 'localhost:3000' and see the API same output as below
+### Step 5: Now you write '/api' after the 'localhost:3000' and see the API of pass local data and same output as below
 ![5](./ss/5.png)
 ![6](./ss/6.png)
 ![7](./ss/7.png)
