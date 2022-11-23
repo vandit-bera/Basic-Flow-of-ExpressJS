@@ -85,7 +85,7 @@ For this project I took around `10 to 15 minutes` to complete it.
 
 <!-- CONTACT -->
 
-# For any query? ping me!
+# ➿ For any query? ping me!
 
 - **Name 👨‍💻:** [Vandit Bera](https://github.com/vandit-bera)
 - **Email 📧:** [vanditbera@gmail.com](mailto:vanditbera@gmail.com)
