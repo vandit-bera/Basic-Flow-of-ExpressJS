@@ -76,7 +76,7 @@ For this project I took around `10 to 15 minutes` to complete it.
 
 <br>
 
-# Installation
+# 🔰 Installation
 ### Step 1: Open the path of file direction in your terminal.
 ### Step 2: Run 'npm init -y' command in terminal. '-y' for all permission is accepted.
 ### Step 3: Run 'npm install -g express' command in terminal to install express in the project.
